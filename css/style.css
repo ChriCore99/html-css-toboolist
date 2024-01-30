@@ -26,15 +26,19 @@ header {
     border-bottom: 3px solid lightgrey;
 }
 
-.container-pulsanti {
-    background-color: white;
-    max-width: 1024px;
-    margin: 0 auto;
+.section-buttons div {
     padding-top: 15px;
     padding-left: 30px;
     padding-bottom: 6px;
     border-top-right-radius: 6px;
     border-top-left-radius: 6px;
+}
+
+.container {
+    background-color: white;
+    max-width: 1024px;
+    margin: 0 auto;
+
 }
 
 /* bottoni */
